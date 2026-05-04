@@ -1,0 +1,12 @@
+/* connection of the display with stm32 bluepill
+Dispaly       STM32
+ * BLK        GND
+ * BLA        3.3V
+ * PSB        GND
+ * E (SCK)    PA5
+ * RW (MOSI)  PA7
+ * RS (CS)    PA3
+ * 
+ * VCC        5V
+ * GND        GND
+*/
